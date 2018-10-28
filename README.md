@@ -1,6 +1,6 @@
-# test-project
+# Smashing Magazine - Tutorial
 
-> A Vue.js project
+> Tour De France 2017 - Interactive Infographic Project
 
 ## Build Setup
 
